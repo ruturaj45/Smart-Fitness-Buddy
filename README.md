@@ -21,3 +21,8 @@ Here's a professional and concise **GitHub project description** for your **Smar
 * **Prompt Lab**: For crafting and iterating intelligent, tailored prompts
 * **Granite Model**: For understanding and generating high-quality natural language responses
 * **IBM Cloud**: For scalable, secure deployment and backend infrastructure
+
+###  Example Prompts
+* Suggest me workout plan
+* How to gain weight 
+* How to gain muscle :
